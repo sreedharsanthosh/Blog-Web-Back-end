@@ -11,10 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "fs": "*",
     "mongoose": "^5.13.2",
-    "multer": "^1.4.2"
+    "multer": "^1.4.3",
+    "path": "^0.12.7"
   }
 }
